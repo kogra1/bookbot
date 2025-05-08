@@ -1,3 +1,5 @@
-#Pyhton project practice
+# Python data reader practice
 
-#Bookbot reads a txt file and outputs the number of words and the number of each alpha character within the file
+Reads through files and returns character and word counts
+
+## Usage: python main.py <book_path> 
