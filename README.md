@@ -1,4 +1,4 @@
-# Python data reader practice
+# Python data reader
 
 Reads through files and returns character and word counts
 
